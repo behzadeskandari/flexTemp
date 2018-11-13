@@ -1,0 +1,24 @@
+
+
+html body div{
+    box-sizing:  border-box;
+}
+
+body{
+    display: flex;
+    flex-flow: row wrap;
+    /*formatting*/
+        width:100%;
+        padding: 0;
+    border: 5px solid tomato;
+    margin:  0 auto;
+
+
+}
+
+
+.item1 , .item2 ,.item3 , .item4 , .item5 {
+    width: 100%;
+    min-height: 150px;
+}
+

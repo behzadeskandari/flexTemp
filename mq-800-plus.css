@@ -1,0 +1,17 @@
+
+
+body{
+
+   width:  880px;
+}
+
+
+.item1 {width: 60%}
+
+.item2 {
+    width: 40%;
+}
+
+.item3, .item4, .item5{
+    width: 33.33%;
+}
